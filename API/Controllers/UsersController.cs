@@ -20,8 +20,15 @@ namespace API.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<AppUser>> GetUsers()
         {
-            var users = _context.Users.ToList();
-            return users;
+            return _context.Users.ToList();
         }
+
+        [HttpGet("{id}")]
+        public ActionResult<AppUser> GetUser (int id)
+        {
+            return _context.Users.Find(id);
+        }
+
+
     }
 }
