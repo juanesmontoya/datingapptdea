@@ -55,3 +55,7 @@ C:\Users\Dell\Documents\VISUAL STUDIO PROJECTS\TDEA\API\obj\Debug\net5.0\API.pdb
 C:\Users\Dell\Documents\VISUAL STUDIO PROJECTS\TDEA\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Users\Dell\Documents\VISUAL STUDIO PROJECTS\TDEA\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Dell\Documents\VISUAL STUDIO PROJECTS\TDEA\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Documents\VISUAL STUDIO PROJECTS\TDEA\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Documents\VISUAL STUDIO PROJECTS\TDEA\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Documents\VISUAL STUDIO PROJECTS\TDEA\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Documents\VISUAL STUDIO PROJECTS\TDEA\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
